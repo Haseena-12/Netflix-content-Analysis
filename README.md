@@ -18,4 +18,6 @@ Analyzed Netflix Movies and TV Shows dataset to identify content distribution, c
 Developed analytical insights into Netflix's content library through structured data analysis and visualization.
 ## Project Dashboard Screenshot
 
+## Project Dashboard Screenshot
+
 ![Netflix Dashboard](netflix_dashboard.png)
