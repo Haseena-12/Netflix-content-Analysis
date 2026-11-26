@@ -20,4 +20,3 @@ Developed analytical insights into Netflix's content library through structured 
 
 ## Project Dashboard Screenshot
 
-Netflix Content Analytics.png
